@@ -1,0 +1,10 @@
+// GENERATED FILE - DO NOT EDIT DIRECTLY
+{
+  "server": {
+    "host": "localhost",
+    "port": 8080
+  },
+  "featureFlags": {
+    "beta": false
+  }
+}
